@@ -1,0 +1,7 @@
+d:\users\gary\documents\visual studio 2013\Projects\podelete\podelete\bin\Debug\podelete.exe.config
+d:\users\gary\documents\visual studio 2013\Projects\podelete\podelete\obj\Debug\podelete.csprojResolveAssemblyReference.cache
+d:\users\gary\documents\visual studio 2013\Projects\podelete\podelete\bin\Debug\podelete.exe
+d:\users\gary\documents\visual studio 2013\Projects\podelete\podelete\bin\Debug\podelete.pdb
+d:\users\gary\documents\visual studio 2013\Projects\podelete\podelete\obj\Debug\podelete.exe
+d:\users\gary\documents\visual studio 2013\Projects\podelete\podelete\obj\Debug\podelete.pdb
+d:\users\gary\documents\visual studio 2013\Projects\podelete\podelete\bin\Debug\OpenPop.dll
