@@ -9,8 +9,6 @@ using OpenPop.Pop3.Exceptions;
 using OpenPop.Common.Logging;
 using Message = OpenPop.Mime.Message;
 
-// Test
-
 namespace popdelete {
 
     class Program {
@@ -18,7 +16,6 @@ namespace popdelete {
         static Pop3Client pop3Client;
         static bool bStopOnFirst = true;
         static bool bDeleteAll = false;
-        // static bool bUseSSL = false;
         static int PopPort = 110;
         static int MaxDays = 7;
 
@@ -153,9 +150,11 @@ namespace popdelete {
 
             Arguments CmdLine = new Arguments(args);
 
-            // -rcfile=path
+            // -rcfile=path or -rc=file
             if (CmdLine["rc"] != null)
                 RCFile = CmdLine["rc"];
+            if (CmdLine["rcfile"] != null)
+                RCFile = CmdLine["rcfile"];
 
             // -maxdays=x
             if (CmdLine["maxdays"] != null) {
@@ -179,13 +178,6 @@ namespace popdelete {
             //Just empty the mailbox...
             if (CmdLine["deleteall"] != null)
                 bDeleteAll = true;
-
-            //if (CmdLine["ssl"] != null)
-            //    bUseSSL = true;
-
-            // Redundant
-            // if (CmdLine["port"] != null)
-            //    PopPort = Int32.Parse(CmdLine["port"]);
 
             CmdLine = null;
 
