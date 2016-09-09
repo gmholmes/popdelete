@@ -12,3 +12,9 @@ D:\Users\Gary\Documents\Visual Studio 2013\Projects\popdelete\popdelete\bin\Debu
 D:\Users\Gary\Documents\Visual Studio 2013\Projects\popdelete\popdelete\bin\Debug\popdelete.pdb
 D:\Users\Gary\Documents\Visual Studio 2013\Projects\popdelete\popdelete\bin\Debug\OpenPop.dll
 D:\Users\Gary\Documents\Visual Studio 2013\Projects\popdelete\popdelete\obj\Debug\popdelete.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\popdelete\popdelete\bin\Debug\popdelete.exe.config
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\popdelete\popdelete\obj\Debug\popdelete.exe
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\popdelete\popdelete\obj\Debug\popdelete.pdb
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\popdelete\popdelete\bin\Debug\popdelete.exe
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\popdelete\popdelete\bin\Debug\popdelete.pdb
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\popdelete\popdelete\obj\Debug\popdelete.csprojResolveAssemblyReference.cache
