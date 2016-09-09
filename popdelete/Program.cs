@@ -9,6 +9,10 @@ using OpenPop.Pop3.Exceptions;
 using OpenPop.Common.Logging;
 using Message = OpenPop.Mime.Message;
 
+/*
+ * Copyright (C) 2016 Heathdale Networks Ltd
+ */
+
 namespace popdelete {
 
     class Program {
